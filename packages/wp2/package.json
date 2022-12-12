@@ -1,5 +1,5 @@
 {
-  "name": "wp2",
+  "name": "wp20",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "1feeb022fa13920a002b7ca6d6eb35dc0fe53f25"
 }
