@@ -1,21 +1,13 @@
 {
   "name": "wp10",
   "version": "0.0.4",
-  "private": false,
-  "publishConfig": {
-    "registry": "https://npmjs.com/"
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "description": "ecc framework",
-  "author": "ecc team",
-  "main": "./index.js",
-  "scripts": {},
-  "dependencies": {
-    "@riophae/vue-treeselect": "^0.4.0",
-    "antd": "4.11.2"
-  },
-  "devDependencies": {
-    "@babel/preset-react": "^7.13.13",
-    "@vue/cli-plugin-babel": "~4.5.0"
-  },
-  "gitHead": "1feeb022fa13920a002b7ca6d6eb35dc0fe53f25"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gitHead": "c7542e5c1141583bddee189bf40faa86098c5e54"
 }
