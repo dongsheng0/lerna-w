@@ -1,10 +1,10 @@
 {
-  "name": "wp1", 
-  "version": "0.0.3",
-  "private": false, 
+  "name": "wp1",
+  "version": "0.0.1",
+  "private": false,
   "publishConfig": {
     "registry": "https://npmjs.com/"
-  }, 
+  },
   "description": "ecc framework",
   "author": "ecc team",
   "main": "./index.js",
