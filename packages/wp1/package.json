@@ -1,0 +1,20 @@
+{
+  "name": "wp1", 
+  "version": "0.0.3",
+  "private": false, 
+  "publishConfig": {
+    "registry": "https://npmjs.com/"
+  }, 
+  "description": "ecc framework",
+  "author": "ecc team",
+  "main": "./index.js",
+  "scripts": {},
+  "dependencies": {
+    "@riophae/vue-treeselect": "^0.4.0",
+    "antd": "4.11.2"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.13.13",
+    "@vue/cli-plugin-babel": "~4.5.0"
+  }
+}
